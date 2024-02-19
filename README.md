@@ -12,3 +12,4 @@
 - HTML для структуры страницы.
 - CSS для стилизации пользовательского интерфейса.
 - JavaScript для реализации функциональности калькулятора.
+<img width="505" alt="Снимок экрана 2024-02-19 в 20 37 55" src="https://github.com/IuliaAseeva/Calculyator/assets/149232931/f9d36c75-6cef-498f-a6f6-8a7fd1ba7b3a">
